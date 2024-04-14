@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Cinnamon';
+    src: url('Cinnamon.woff2') format('woff2'),
+        url('Cinnamon.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Galleds Stars';
+    src: url('GalledsStars-Regular.woff2') format('woff2'),
+        url('GalledsStars-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
